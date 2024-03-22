@@ -1,0 +1,16 @@
+.links
+{
+    display:flex;
+}
+.links a
+{
+    text-decoration: none;
+    /* padding: 0.5rem; */
+    margin: 30px;
+    font-size: larger;
+
+}
+header:hover{
+background-color:black;
+}
+
