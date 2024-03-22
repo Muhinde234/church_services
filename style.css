@@ -10,7 +10,13 @@
     font-size: larger;
 
 }
-header:hover{
-background-color:black;
+header{
+    background-color:rgb(168, 147, 213);
+    width: 100%;
+    height:60px ;
+    position: -webkit-sticky; 
+    top: 0;
+ position: fixed; 
+
 }
 
