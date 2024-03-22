@@ -5,9 +5,13 @@
 .links a
 {
     text-decoration: none;
-    /* padding: 0.5rem; */
-    margin: 30px;
+     padding: 0.5rem; 
+      margin: 10px; 
     font-size: larger;
+    /* padding-left: 20rem; */
+    
+    
+
 
 }
 header{
@@ -16,7 +20,8 @@ header{
     height:50px ;
      position: -webkit-sticky;  
     top: 0; 
- position: fixed; 
+ position: fixed;
+ 
 
 }
 .text
@@ -58,12 +63,45 @@ display: flex;
 }
 .par1
 {
-    margin-left: 15rem;
+    margin-left: 10rem;
     margin-right: 3rem;
+    font-size: large;
     
 
 }
 .par2
 {
-    margin-right:22rem;
+    margin-right:20rem;
+}
+.form
+{
+background-color: blueviolet;
+width: 20rem;
+height: 15rem;
+padding: 2rem;
+font-size: larger;
+/* text-align: center; */
+margin-left:5rem;
+
+
+}
+.register
+{
+    display: flex;
+    padding: 10px;
+    margin-right: 20rem;
+    
+}
+.form1
+{
+    padding-left: 10rem;
+    font-size: large;
+}
+.text h2
+{
+    margin-left: 5px;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: blueviolet;
+    margin-top: -15rem;
 }
